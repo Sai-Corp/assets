@@ -3,7 +3,7 @@ GitHub Assets is a open-source asset file center for people to freely use our fi
 Here are some questions queried at our forums.
 >How to get file editing access
 
-It's quite simple. Just type `!access(e)user/y`.
+It's quite simple. Just type `!access(e)user/y` in the comments.
 >How to download icons and other data
 
 We download our files, mostly using cmd.exe on windows, is by typing the code `start msedge <link to the file goes here>`.
